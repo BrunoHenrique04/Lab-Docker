@@ -1,0 +1,5 @@
+{
+  "name": "Docker Stacker",
+  "description": "A Docker-themed stacking game built with pure HTML, CSS, and SVGs.",
+  "requestFramePermissions": []
+}
