@@ -91,13 +91,13 @@ docker run -d --name lab2-php \
 Abra no navegador:
 
 ```text
-http://localhost:8082
+http://localhost:8080
 ```
 
 Teste rápido da API do dashboard:
 
 ```bash
-curl -s http://localhost:8082/?api=dashboard
+curl -s http://localhost:8080/?api=dashboard
 ```
 
 A saída deve ser JSON com `ok: true` e os campos do dashboard.
